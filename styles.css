@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #E1FFEE;
+}   
+h1 {
+    color: #00b5b5;
+    margin-top: 0;
+    font-family: 'Caveat', cursive;
+    font-size: 562.5%;
+    margin: 50px auto 0px auto;
+}
+h2 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rpm;
+    font-weight: bold;
+    text-emphasis: true;
+    padding-bottom: 10px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #64b0b3;
+    text-align: left;
+}
+.top-container {
+    background-color: #A5F1E9;
+    padding-top: 100px;
+    position: relative;
+}
+.intro {
+    width: 50%;
+    margin: auto;
+}
+.middle-container{
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+.skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    line-height: 1.5;
+    text-align: left;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.profile-photo {    
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+}
+.html-img {
+    border-radius: 50%;
+    width: 130px;
+    float: left;
+    margin-right: 20px;
+}
+.css-img {
+    border-radius: 50%;
+    width: 130px;
+    float: right;
+    margin-left: 20px;
+}
+hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 7px;
+    border-color: rgb(127, 127, 127);
+    margin: 60px auto;
+}
+.footer {
+    color: rgb(58, 58, 58);
+}
+ul {
+    list-style-type: square;
+}
+.btn {
+    color: #2b83ca;
+}
+.btn:hover{
+    color: purple;
+}
