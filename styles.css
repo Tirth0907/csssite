@@ -89,3 +89,22 @@ ul {
 .btn:hover{
     color: purple;
 }
+
+footer {
+    background-color:#64b0b3;
+}
+
+a{
+    text-decoration: none;
+}
+
+.left{
+    display: inline-block;
+    width: 49%;
+    text-align: left;
+}
+.right {
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+}
